@@ -1,0 +1,39 @@
+body {
+	font-family: sans-serif;
+	background-color: #273248;
+	color: #FC7643;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+    text-align: center;
+    padding-bottom: 10rem;
+}
+img {
+	max-width: 25%;
+	max-height: 25%;
+}
+
+
+button {
+    border-color: #FFA364;
+    border-width: 1rem;
+    background-color: #FFA364;
+    font-size: large;
+	margin-top: 5rem;
+	margin-bottom:2rem;
+}
+
+h1 {
+	color: #FFF
+}
+
+a {
+	color: #FFEBD2
+}
+
+h4 {
+	color: #FFA364
+}
+
